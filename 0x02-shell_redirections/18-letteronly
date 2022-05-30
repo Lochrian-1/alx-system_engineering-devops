@@ -1,2 +1,2 @@
 #!/bin/bash
-ls [AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz]* /etc/ssh/sshd_config
+grep [AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz]* /etc/ssh/sshd_config
