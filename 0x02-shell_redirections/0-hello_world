@@ -1,2 +1,2 @@
-print "Hello, World"
-stdout
+print("Hello, World")
+$
